@@ -1,1 +1,1 @@
-# Artificial-Intellingence-ML
+# Practical-1AI-ML
